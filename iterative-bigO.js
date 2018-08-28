@@ -1,0 +1,8 @@
+// Count Sheep: O(n)
+// Array Double: O(n)
+// Reverse String: O(n)
+// Triangular Number: O(n)
+// Split: O(n)
+// ConvertToBinary: O(log(n))
+// Factorial: O(n)
+// Fibonacci: O(n)
